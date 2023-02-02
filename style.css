@@ -1,0 +1,25 @@
+    html,
+    body {
+        margin: 0px;
+        padding: 0px;
+        background-color: gray;
+    }
+
+
+    svg {
+        border: solid 1px black;
+        height:500px;
+        width:1500px;
+        display: block;
+    }
+
+
+
+    #svg {
+        margin-top: 10px;
+        margin-left: 10px;;
+    }
+
+    input{
+        width:1500px;
+    }
